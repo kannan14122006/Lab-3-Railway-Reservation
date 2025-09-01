@@ -18,31 +18,20 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
-
-### Use case Diagram:
-
-<img width="1028" height="656" alt="Screenshot 2025-09-01 105656" src="https://github.com/user-attachments/assets/ed30274c-1e66-444b-8f5b-c2197ef371f5" />
-
-### ClassDiagram:
-
-<img width="962" height="582" alt="Screenshot 2025-09-01 105815" src="https://github.com/user-attachments/assets/c695a2e5-89b2-4d5a-bdee-156755ac394e" />
-
-### ActivityDiagram:
-
-<img width="933" height="602" alt="Screenshot 2025-09-01 110118" src="https://github.com/user-attachments/assets/dd288230-4348-43e1-b76c-93edd200fe7d" />
-
-### SequenceDiagram:
-
-<img width="886" height="773" alt="Screenshot 2025-09-01 110524" src="https://github.com/user-attachments/assets/f89a0842-5911-4f77-8329-85865b095c4f" />
-
-### PackageDiagram:
-
-<img width="998" height="626" alt="Screenshot 2025-09-01 110835" src="https://github.com/user-attachments/assets/1f174a95-319e-45ea-9ac8-339a0eebccee" />
-
-### CommunicationDiagram:
-
-<img width="962" height="521" alt="Screenshot 2025-09-01 111223" src="https://github.com/user-attachments/assets/42fbbcbd-9707-40d8-a0c3-f6af63594239" />
-
+### DEVELOPED BY : KANNAN R
+### REGISTER NUMBER : 212224240072
+### USECASE DIAGRAM
+![WhatsApp Image 2024-04-22 at 11 13 22_9cc18418](https://github.com/23012653/Lab-3-Railway-Reservation/assets/150777517/24ade202-2abc-41c8-b6b8-bd66bea1464a)
+### CLASS DIAGRAM
+![WhatsApp Image 2024-04-22 at 11 12 15_6e359597](https://github.com/23012653/Lab-3-Railway-Reservation/assets/150777517/07d7b5f3-596d-4f2e-8ec1-5fd1348e8c80)
+### ACTIVITY DIAGRAM
+![WhatsApp Image 2024-04-22 at 11 17 26_cf071145](https://github.com/23012653/Lab-3-Railway-Reservation/assets/150777517/a912e49e-eba9-4fb3-8fa1-527d3212be77)
+### SEQUENCE DIAGRAM
+![WhatsApp Image 2024-04-22 at 11 15 45_4f58151e](https://github.com/23012653/Lab-3-Railway-Reservation/assets/150777517/da77c51c-f63c-45c4-bcab-e6e87a5629ef)
+### COMMUNICATION DIAGRAM
+![WhatsApp Image 2024-04-22 at 11 26 44_d7a68bdd](https://github.com/23012653/Lab-3-Railway-Reservation/assets/150777517/555d2392-6192-423e-b4a6-c2ae5ab63867)
+### PACKAGE DIAGRAM
+![WhatsApp Image 2024-04-22 at 11 15 01_3cd9557c](https://github.com/23012653/Lab-3-Railway-Reservation/assets/150777517/95c73306-056d-40d5-a0ff-b428cd633a9b)
 
 
 ### RESULT:
