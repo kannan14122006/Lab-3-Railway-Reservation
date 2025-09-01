@@ -18,20 +18,36 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
-### DEVELOPED BY : KANNAN R
-### REGISTER NUMBER : 212224240072
-### USECASE DIAGRAM
-![WhatsApp Image 2024-04-22 at 11 13 22_9cc18418](https://github.com/23012653/Lab-3-Railway-Reservation/assets/150777517/24ade202-2abc-41c8-b6b8-bd66bea1464a)
-### CLASS DIAGRAM
-![WhatsApp Image 2024-04-22 at 11 12 15_6e359597](https://github.com/23012653/Lab-3-Railway-Reservation/assets/150777517/07d7b5f3-596d-4f2e-8ec1-5fd1348e8c80)
-### ACTIVITY DIAGRAM
-![WhatsApp Image 2024-04-22 at 11 17 26_cf071145](https://github.com/23012653/Lab-3-Railway-Reservation/assets/150777517/a912e49e-eba9-4fb3-8fa1-527d3212be77)
-### SEQUENCE DIAGRAM
-![WhatsApp Image 2024-04-22 at 11 15 45_4f58151e](https://github.com/23012653/Lab-3-Railway-Reservation/assets/150777517/da77c51c-f63c-45c4-bcab-e6e87a5629ef)
-### COMMUNICATION DIAGRAM
-![WhatsApp Image 2024-04-22 at 11 26 44_d7a68bdd](https://github.com/23012653/Lab-3-Railway-Reservation/assets/150777517/555d2392-6192-423e-b4a6-c2ae5ab63867)
-### PACKAGE DIAGRAM
-![WhatsApp Image 2024-04-22 at 11 15 01_3cd9557c](https://github.com/23012653/Lab-3-Railway-Reservation/assets/150777517/95c73306-056d-40d5-a0ff-b428cd633a9b)
+
+## USE CASE DIAGRAM
+
+<img width="1048" height="669" alt="Screenshot 2025-09-01 105427" src="https://github.com/user-attachments/assets/d1ef0dc8-f3f1-43d4-b128-b75b8ae68ade" />
+
+
+## CLASS DIAGRAM
+
+<img width="1033" height="748" alt="Screenshot 2025-09-01 105631" src="https://github.com/user-attachments/assets/dc21a6a9-dea7-4605-b3d6-110736d88c81" />
+
+## ACTIVITY DIAGRAM
+
+<img width="1035" height="899" alt="Screenshot 2025-09-01 105715" src="https://github.com/user-attachments/assets/84d885dd-42af-4de5-91d1-bda90504c3e1" />
+
+## SEQUENCE DIAGRAM
+
+<img width="1057" height="656" alt="Screenshot 2025-09-01 105801" src="https://github.com/user-attachments/assets/d3c52805-76a2-4aaa-a5f5-e6199ff20166" />
+
+## COMMUNICATION DIAGRAM
+
+<img width="1035" height="899" alt="Screenshot 2025-09-01 105715" src="https://github.com/user-attachments/assets/b118b3c4-2b85-47ba-8898-3c5d25143a01" />
+
+
+## PACKAGE DIAGRAM
+
+
+<img width="907" height="908" alt="Screenshot 2025-09-01 105922" src="https://github.com/user-attachments/assets/87c90e54-337c-4886-a81b-f76c77856db2" />
+
+
+
 
 
 ### RESULT:
